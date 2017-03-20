@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/client-combined-3.0.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/satheesh/workspace/Selenium Jars/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

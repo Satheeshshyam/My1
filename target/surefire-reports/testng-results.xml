@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="26759" started-at="2017-03-17T06:53:51Z" finished-at="2017-03-17T06:54:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="26759" started-at="2017-03-17T06:53:51Z" finished-at="2017-03-17T06:54:17Z">
+      <class name="test.Regression.TestSc_01">
+        <test-method status="PASS" signature="PreCondition()[pri:0, instance:test.Regression.TestSc_01@3ac3fd8b]" name="PreCondition" is-config="true" duration-ms="19238" started-at="2017-03-17T12:23:51Z" finished-at="2017-03-17T12:24:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PreCondition -->
+        <test-method status="PASS" signature="VerifyValidLogin_TC01()[pri:0, instance:test.Regression.TestSc_01@3ac3fd8b]" name="VerifyValidLogin_TC01" duration-ms="7454" started-at="2017-03-17T12:24:10Z" finished-at="2017-03-17T12:24:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyValidLogin_TC01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:test.Regression.TestSc_01@3ac3fd8b]" name="afterMethod" is-config="true" duration-ms="51" started-at="2017-03-17T12:24:17Z" finished-at="2017-03-17T12:24:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- test.Regression.TestSc_01 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
